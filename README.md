@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RIKESHWARAN M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikeshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="rikeshwaran" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Frontend,UI/UX,Python,**
-
-- 💬 Ask me about **Python,C,Canva**
+- 💬 Ask me about **Python,C,Canva,Html,CSS&JS**
 
 - 📫 How to reach me **rikeshrikey@gmail.com**
 
