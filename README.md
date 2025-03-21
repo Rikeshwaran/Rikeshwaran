@@ -9,6 +9,7 @@
 📞 +91 9629040311  
 📧 rikeshrikey@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rikeshwaran-m)  
+🔗 RIKESHWARANM.ME
 
 ---
 
@@ -25,7 +26,7 @@ To leverage my programming, analytical, and problem-solving skills to develop in
 ## 🎓 Education
 - **Velalar College of Engineering and Technology** (2021 - Present)  
   - **Bachelor of Engineering - Computer Science and Engineering**  
-  - **CGPA:** 7.77  
+  - **CGPA:** 7.71  
 - **Kongu Vellalar Matric Higher Secondary School - Chennimalai**
   - Higher Secondary Education (2020 - 2021) - **Percentage:** 86.7%
   - Secondary Education (2018 - 2019) - **Percentage:** 84.4%
