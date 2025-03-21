@@ -9,7 +9,8 @@
 📞 +91 9629040311  
 📧 rikeshrikey@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rikeshwaran-m)  
-🔗 RIKESHWARANM.ME
+🔗 rikeshwaranm.me
+
 
 ---
 
