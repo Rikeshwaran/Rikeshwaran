@@ -1,7 +1,9 @@
 
 # Hi, I'm Rikeshwaran M! 👋
 
-### 🚀 Computer Science and Engineering Student | Aspiring Software Developer | Data Enthusiast
+### 🚀 Computer Science and Engineering Student | Aspiring Software Developer 
+
+### Important Git repo are privated contact to get details
 
 ---
 
