@@ -14,48 +14,20 @@
 🔗 rikeshwaranm.me
 
 
----
-
-## 👨‍💻 About Me
-An individual with a keen interest in programming, designing, and data analytics. My goal is to contribute to data-driven decision-making processes in a dynamic organization while continuously learning. I am committed to staying at the forefront of technology trends and applying best practices to drive business success with meaningful impact.
+An individual with a keen interest in programming. My goal is to contribute to data-driven decision-making processes in a dynamic organization while continuously learning. I am committed to staying at the forefront of technology trends and applying best practices to drive business success with meaningful impact. To leverage my programming, analytical, and problem-solving skills to develop innovative software solutions and contribute to impactful projects that enhance business efficiency and user experience.
 
 ---
 
-## 🎯 Career Objective
-To leverage my programming, analytical, and problem-solving skills to develop innovative software solutions and contribute to impactful projects that enhance business efficiency and user experience.
-
----
-
-## 🎓 Education
-- **Velalar College of Engineering and Technology** (2021 - Present)  
-  - **Bachelor of Engineering - Computer Science and Engineering**  
-  - **CGPA:** 7.71  
-- **Kongu Vellalar Matric Higher Secondary School - Chennimalai**
-  - Higher Secondary Education (2020 - 2021) - **Percentage:** 86.7%
-  - Secondary Education (2018 - 2019) - **Percentage:** 84.4%
-
----
-
-## 💡 Areas of Interest
-- 🎨 Designing
-- 📊 Data Analytics
+## 💡 Domains
 - 🌐 Full Stack Development
 - 🖥️ Software Development
 
 ---
 
 ## 🛠️ Skills
-- 💻 Programming: **C, Java**
-- 🌐 Web Development: **HTML, CSS, JavaScript, Bootstrap**
-- 🛢️ Database: **SQL**
-
----
-
-## 🎓 Certifications
-- ✅ Completed **Introduction to Artificial Intelligence, Deep Learning, and Natural Language Processing** - Infosys Springboard
-- ✅ Completed **Java & HTML Training and Arduino Training** - Spoken Tutorial Project, IIT Bombay
-- ✅ Completed **Image Editing Workshop** - Dreamzone
-
+- 💻 Programming: **Python(FastAPI),GraphQL**
+- 🌐 Web Development: **HTML, CSS, JavaScript, Bootstrap, React**
+- 🛢️ Database: **SQL,MongoDB**
 ---
 
 ## 📫 Let's Connect!
